@@ -1,93 +1,103 @@
-<h1 align="center">AL MUZZAMMIL</h1>
+<h1 align="center">Hi there, I'm AL MUZZAMMIL 👋</h1>
+
 <p align="center">
   <b>Mobile Engineer • IoT Systems Engineer • Cloud-Integrated Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=500&lines=Android+Developer;Flutter+Developer;IoT+Engineer;AIoT+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Android+Developer;Flutter+Developer;IoT+Engineer;AIoT+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-Engineer focused on building scalable mobile applications integrated with IoT devices and cloud infrastructure.  
-Experienced in Android Native (Kotlin), Flutter, ESP32 systems, and cloud-connected real-time architectures.
+I am an engineer passionate about building scalable, real-world solutions. My work focuses on the exciting intersection of **mobile applications**, **IoT devices**, and **cloud infrastructure**.
 
----
-
-## 🛠 Technology Stack
-
-### 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio" />
-</p>
-
-### ☁ Cloud & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,git" />
-</p>
-
-### 🔌 IoT & Embedded
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MQTT-Protocol-green?style=for-the-badge" />
-</p>
+-   🔭 I specialize in creating seamless integrations between Android/Flutter apps and embedded systems like the ESP32.
+-   🌱 I’m constantly exploring new advancements in **AIoT (Artificial Intelligence of Things)** to build smarter, more responsive systems.
+-   💡 I enjoy the full development cycle, from tinkering with hardware sensors to architecting cloud databases and crafting intuitive mobile interfaces.
 
 ---
 
-## 🚀 Engineering Projects
+### 🛠️ Technology Stack
 
-🔹 **Smart Egg Sorting System**  
-IoT-based automated egg classification integrated with cloud dashboard.
+<div align="center">
 
-🔹 **Smart Livestock Monitoring**  
-Android + ESP32 real-time monitoring system using cloud database.
+#### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio" alt="Mobile Dev Skills" />
 
-🔹 **Smart Waste Automation System**  
-Ultrasonic-based smart trash system with IoT monitoring.
+#### ☁️ Cloud & Backend
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,git" alt="Cloud & Backend Skills" />
 
----
+#### 🔌 IoT & Embedded Systems
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+<img src="https://img.shields.io/badge/Sensors-FF6F00?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Sensors" />
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+### 🚀 Featured Engineering Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
+Here are some of the key projects I've developed, showcasing my ability to integrate mobile, cloud, and hardware:
+
+-   **🔹 Smart Egg Sorting System**  
+    An IoT-based automated system that classifies eggs by quality. It uses sensors for data acquisition and sends results to a cloud dashboard for real-time monitoring and reporting.
+
+-   **🔹 Smart Livestock Monitoring**  
+    A comprehensive solution combining an Android app with ESP32-based sensors. It provides real-time tracking of animal location, health metrics, and environmental conditions, with data stored in the cloud.
+
+-   **🔹 Smart Waste Automation System**  
+    Developed an ultrasonic sensor-based smart trash bin that monitors fill levels and automates lid operations. The system transmits data for efficient waste collection route planning.
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+</div>
 
 ---
 
-## 📫 Contact
+### 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>
+</div>
+
+---
+
+### 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing new projects, collaborations, or innovative ideas in the tech space. Feel free to reach out!
+
+<div align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
 
-<p align="center">
-  Focused on AIoT • Smart Systems • Mobile-Embedded Integration
-</p>
+<div align="center">
+  <i>Focused on building the future with AIoT • Smart Systems • Mobile-Embedded Integration</i>
+</div>
