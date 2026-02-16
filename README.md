@@ -62,21 +62,8 @@ Here are some of the key projects I've developed, showcasing my ability to integ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
----
 
-### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>
-</div>
-
----
-
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
