@@ -64,25 +64,6 @@ Here are some of the key projects I've developed, showcasing my ability to integ
 
 
 
-
----
-
-### 📫 Let's Connect
-
-I'm always open to discussing new projects, collaborations, or innovative ideas in the tech space. Feel free to reach out!
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
 ---
 
 <div align="center">
